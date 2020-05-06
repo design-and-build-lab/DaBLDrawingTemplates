@@ -8,4 +8,19 @@ DaBL also offers a [workshop](http://designandbuildlab.com/wiki/index.php/Worksh
 
 ## Implementation
 
-The following is to demonstrate how to use the template files in Fusion 360. One restriction in the program is that the paper size must be specified in advance. After the paper size is selected, it ***cannot*** be changed. Therefore, the first step is to select the type of paper to use. 
+The following is to demonstrate how to use the template files in Fusion 360. One restriction in the program is that the paper size must be specified in advance. After the paper size is selected, it ***cannot*** be changed. Therefore, the first step is to select the type of paper to use. Fusion 360 offers to categories from which to choose from :
+
+- ASME
+- ISO
+
+The [ISO](https://en.wikipedia.org/wiki/ISO_216) is the international standard for papersizes where as [ASME](https://en.wikipedia.org/wiki/ANSI/ASME_Y14.1) is the adopted paper size for North American and parts of Latin America. For example, A4 paper can be found in the [ISO](ISO) folder while Letter paper can be found in the [ASME](ASME) folder. Paper sizes exist in both landscape and portrait orientation.
+
+
+The file type '.f2t' is the extension for Fusion 360 drawing template files. To use these :
+
+1. Navigate to the data panel
+2. Select upload (the file should upload to your projects folder)
+3. Desiginate this file in your next drawing project.
+
+
+
