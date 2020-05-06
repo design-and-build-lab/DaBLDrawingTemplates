@@ -12,7 +12,7 @@ The following is to demonstrate how to use the template files in Fusion 360. One
 - ASME
 - ISO
 
-The [ISO](https://en.wikipedia.org/wiki/ISO_216) is the international standard for papersizes where as [ASME](https://en.wikipedia.org/wiki/ANSI/ASME_Y14.1) is the adopted paper size for North American and parts of Latin America. For example, A4 paper can be found in the [ISO](ISO) folder while Letter paper can be found in the [ASME](ASME) folder. Paper sizes exist in both landscape and portrait orientation.
+The [ISO](https://en.wikipedia.org/wiki/ISO_216) is the international standard for papersizes where as [ASME](https://en.wikipedia.org/wiki/ANSI/ASME_Y14.1) is the adopted paper size for North American and parts of Latin America. For example, A4 paper can be found in the [ISO folder](ISO) while Letter paper can be found in the [ASME folder](ASME). Paper sizes exist in both landscape and portrait orientation.
 
 
 The file type '.f2t' is the extension for Fusion 360 drawing template files. To use these :
